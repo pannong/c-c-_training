@@ -1,1 +1,1 @@
-# c-c-_training
+Practicing coding for fun.. c/c++ projects
